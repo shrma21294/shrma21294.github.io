@@ -29,7 +29,7 @@
         "network": "twitter",
         "username": "komalsharma21",
         "url": "http://twitter.com/komalsharma21"
-      },
+      }
     ]
   },
   "interests": [
@@ -89,7 +89,7 @@
         "Data Structure",
         "Computer networks",
         "Computer Architecture",
-        "Computer Graphics"
+        "Computer Graphics",
         "Compilers",
         "Big Data",
         "Algorithm"
