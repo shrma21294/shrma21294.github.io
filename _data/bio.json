@@ -6,7 +6,7 @@
     "email": "komalsharma21294@gmail.com",
     "phone": "",
     "website": "https://shrma21294.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "summary": "I am an experienced Unity game developer with expertise in AR/VR technology. I graduated from Purdue University (IN) with Master's in Computer Science",
     "location": {
       "address": "",
       "postalCode": "33143",
@@ -34,19 +34,19 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Game Developement",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Unity3D game engine",
+        "C#"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Virtual Reality",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Augmented Reality",
       "keywords": [
       ]
     }
@@ -56,12 +56,9 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
         "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "C#",
+        "Java"
       ]
     },
     {
@@ -71,38 +68,49 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows",
+        "Linux",
+        "Unix",
+        "Android",
+        "iOS"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "institution": "Purdue University, IN, US",
+      "area": "Computer Science (2017 - 2019)",
+      "studyType": "M.S.",
+      "startDate": "2017-08-22",
+      "endDate": "2019-05-05",
+      "gpa": "3.7/4.0",
       "courses": [
+        "Parallel Programming",
+        "Data Structure",
+        "Computer networks",
+        "Computer Architecture",
+        "Computer Graphics"
+        "Compilers",
+        "Big Data",
+        "Algorithm"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of Miami",
+      "position": "Virtual Reality Programmer",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2019-12-02",
+      "endDate": "2020-05-31",
+      "summary": "Application developer for School of Nursing",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Responsible for working on projects for School of Nursing",
+        "Design, develop and test projects like Patient Incivility, Airway Fire, AR Ultrasound, Canes Central"
       ]
     },
     {
-      "company": "UH Information Technology Services",
+      "company": "The Glimpse Group",
       "position": "Help Desk Consultant",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2015-01-01",
